@@ -5,12 +5,6 @@
 ## Description
 **push_swap** is a sorting algorithm project that challenges you to sort a stack of integers using a limited set of operations with the minimum number of moves. The goal is to implement an efficient sorting algorithm using two stacks (a and b) and a specific set of stack operations. This project explores algorithm complexity, optimization techniques, and data structure manipulation in C.
 
-## About
-
-A sorting algorithm project that sorts integers using two stacks with a limited set of operations, implementing different sorting strategies based on stack size for optimal performance.
-
-`C` `Algorithms` `Data Structures` `Stack Operations` `Radix Sort` `Optimization` `Complexity`
-
 ## Instructions
 
 ### Compilation
