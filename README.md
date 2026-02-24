@@ -25,7 +25,6 @@ Execute the program by providing a list of integers as arguments:
 ```bash
 ./push_swap 3 2 5 1 4
 ./push_swap 0 -5 10 3
-./push_swap "3 2 1"
 ```
 
 The program outputs a series of operations that will sort the stack.
